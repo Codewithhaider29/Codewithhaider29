@@ -12,8 +12,11 @@ I love building fast, scalable, and interactive web applications with modern tec
 ---
 
 ## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maiaadilhoon)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadil-khan-5461a1251/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/being.haider21)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/being.haider21/)  
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=snapchat&logoColor=black)](https://www.snapchat.com/add/being.haider21)  
+[![CodePen](https://img.shields.io/badge/CodePen-%23121011.svg?logo=codepen&logoColor=white)](https://codepen.io/Haider-Ali-Ali)
+ 
 
 ---
 
